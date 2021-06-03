@@ -34,3 +34,4 @@ ans=ans*k;
 }
 return(2*ans);
 }
+  
